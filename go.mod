@@ -1,4 +1,4 @@
-module common-sdk
+module github.com/nellac64/common-sdk
 
 go 1.25.4
 
